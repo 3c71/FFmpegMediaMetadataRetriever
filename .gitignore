@@ -13,3 +13,8 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+gradle/fmmr-library/.idea/gradle.xml
+gradle/fmmr-library/.idea/caches/build_file_checksums.ser
+gradle/fmmr-library/.idea/misc.xml
+gradle/fmmr-library/.idea/modules.xml
+gradle/fmmr-library/.idea/workspace.xml
